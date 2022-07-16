@@ -1,131 +1,27 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Slide Kitchen",
-      "excerpt": "Featuring a stainless steel benchtop, gas stove, utensils drawer and sink.",
-      "price": "48.56",
-      "discountPrice": "36.99",
-      "thumbnail": "/featured/image-8.png",
-      "images": ["/featured/image-8.png", "/featured/image-21.png", "/featured/image-22.png", "/featured/image-23.png"],
-      "description": "From the campsite to the worksite, the roadside to the track or riverside – no matter where you are, imagine the convenience of a fully contained kitchen out the back of your 4WD. ARB’s Slide Kitchen features a stainless steel benchtop, gas stove, utensils drawer and sink which slides out of the back of your 4WD in a matter of seconds!"
-    },
-    {
-      "id": 2,
-      "title": "Commercial Vehicle",
-      "excerpt": "Any type of motor vehicle used for transporting goods or paying passengers.",
-      "price": "48.56",
-      "discountPrice": "36.99",
-      "thumbnail": "/featured/image-9.png",
-      "images": ["/featured/image-9.png", "/featured/image-21.png", "/featured/image-22.png", "/featured/image-23.png"],
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce finibus ultrices quam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce finibus ultrices quam. Interdum et malesuada fames ac ante ipsum primis in faucibus."
-    },
-    {
-      "id": 3,
-      "title": "Drawer & Cargo",
-      "excerpt": "Featuring a sleek design, high quality components, and the ability to create a fully customised system tailored.",
-      "price": "48.56",
-      "discountPrice": "36.99",
-      "thumbnail": "/featured/image-10.png",
-      "images": ["/featured/image-10.png", "/featured/image-21.png", "/featured/image-22.png", "/featured/image-23.png"],
-      "description": "In the event of emergency braking or a collision, the effects of having unrestrained cargo thrown forward can be catastrophic. For this reason, a cargo barrier is an essential piece of equipment in any 4WD wagon. That’s why ARB offer the Modular Roller Drawer System – providing not only protection, but new configuration and application options over traditional roller drawer systems."
-    },
-    {
-      "id": 4,
-      "title": "Side Rails & Steps",
-      "excerpt": "With an all new attachment system, larger steel tubing and anodised aluminium tread plate.",
-      "price": "48.56",
-      "discountPrice": "36.99",
-      "thumbnail": "/featured/image-11.png",
-      "images": ["/featured/image-11.png", "/featured/image-21.png", "/featured/image-22.png", "/featured/image-23.png"],
-      "description": "With an all new attachment system, larger steel tubing and anodised aluminium tread plate, the Summit side protection range encompasses the very best in design and vehicle protection. Built for the next generation of four wheel drives, Summit side rails and protection steps defend your vehicle’s doors, side sills and quarter panels from expensive damage that can be encountered when off road. Manufactured from high strength 60.3mm tubular steel; the attachment system connects the side rail to the bull bar securely, while a tough nylon cover sleeve provides an integrated look."
-    },
-    {
-      "id": 5,
-      "title": "Bull Bars",
-      "excerpt": "Substantially improved protection for vulnerable mechanical components.",
-      "price": "48.56",
-      "discountPrice": "36.99",
-      "thumbnail": "/featured/image-12.png",
-      "images": ["/featured/image-12.png", "/featured/image-21.png", "/featured/image-22.png", "/featured/image-23.png"],
-      "description": "Engineering a bull bar requires careful consideration of a number of factors to ensure it properly serves its purpose. Factors such as vehicle design, crush rate, air bag deployment, approach angles, accessory fitment, strength, weight and aesthetics are incorporated"
-    },
-    {
-      "id": 6,
-      "title": "Roof Racks",
-      "excerpt": "From roof racks and cross bars, to sport and leisure carriers.",
-      "price": "48.56",
-      "discountPrice": "36.99",
-      "thumbnail": "/featured/image-13.png",
-      "images": ["/featured/image-13.png", "/featured/image-21.png", "/featured/image-22.png", "/featured/image-23.png"],
-      "description": "Ultra sleek, boasting a super low mounting profile and lightweight design, the BASE Rack provides unmatched simplicity, flexibility and personalisation in your roof rack set-up. Manufactured and designed to withstand the most demanding of conditions, Deluxe racks come in a range of sizes for vehicles with or without gutters and are supplied with stainless steel mounting hardware and variable height fitting kits to enable multi-vehicle fitment. The Deluxe roof rack is available as a cab rack for dual cab applications."   
-    },
-    {
-      "id": 7,
-      "title": "Portable Fridge Freezers",
-      "excerpt": "No more digging your bare arms, elbows deep, in ice while scavenging around for a can at the bottom of the cooler.",
-      "price": "48.56",
-      "discountPrice": "36.99",
-      "thumbnail": "/featured/image-14.png",
-      "images": ["/featured/image-14.png", "/featured/image-21.png", "/featured/image-22.png", "/featured/image-23.png"],
-      "description": "Whether it be holding the lid with one hand, jamming it against the headliner or resting it against your head, we’ve become accustomed to compromise when attempting to hold the lid of our 4WD fridges open. We solved it before with our removable lid, but the new weatherproof fridge takes things a step further, with the introduction of our innovative new strut that holds the lid open in any position (from closed to upright), making it easier to grab the drinks on your next shout."   
-    },
-    {
-      "id": 8,
-      "title": "Interior Protection",
-      "excerpt": "No more digging your bare arms, elbows deep, in ice while scavenging around for a can at the bottom of the cooler.",
-      "price": "48.56",
-      "discountPrice": "36.99",
-      "thumbnail": "/featured/image-15.png",
-      "images": ["/featured/image-15.png", "/featured/image-21.png", "/featured/image-22.png", "/featured/image-23.png"],
-      "description": "Whether it be holding the lid with one hand, jamming it against the headliner or resting it against your head, we’ve become accustomed to compromise when attempting to hold the lid of our 4WD fridges open. We solved it before with our removable lid, but the new weatherproof fridge takes things a step further, with the introduction of our innovative new strut that holds the lid open in any position (from closed to upright), making it easier to grab the drinks on your next shout. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce finibus ultrices quam. Interdum et malesuada fames ac ante ipsum primis in faucibus."   
-    },
-    {
-      "id": 9,
-      "title": "Product Title",
-      "excerpt": "Space for a small product description.",
-      "price": "48.56",
-      "discountPrice": "36.99",
-      "thumbnail": "/featured/image-16.png",
-      "images": ["/featured/image-16.png", "/featured/image-21.png", "/featured/image-22.png", "/featured/image-23.png"],
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce finibus ultrices quam. Interdum et malesuada fames ac ante ipsum primis in faucibus."   
-    },
-    {
-      "id": 10,
-      "title": "UTE Lids & Tub",
-      "excerpt": "An alternative to a traditional canopy, whether it be for work play or anything in between.",
-      "price": "48.56",
-      "discountPrice": "36.99",
-      "thumbnail": "/featured/image-17.png",
-      "images": ["/featured/image-17.png", "/featured/image-21.png", "/featured/image-22.png", "/featured/image-23.png"],
-      "description": "The passenger side damping strut helps to slowly lower the tailgate which, once opened, can be let go and continue to lower unassisted in a controlled manner. On the driver’s side of the tailgate, a gas-assisted traction strut helps to close the tailgate; making lifting easy and achievable with a simple one-handed motion. Each kit comes with vehicle-specific hardware including mounting brackets and replacement tailgate cables and guide brackets where required."   
-    },
-    {
-      "id": 11,
-      "title": "Canopies",
-      "excerpt": "From the tried and tested Classic canopy offering simple yet secure storage space.",
-      "price": "48.56",
-      "discountPrice": "36.99",
-      "thumbnail": "/featured/image-18.png",
-      "images": ["/featured/image-18.png", "/featured/image-21.png", "/featured/image-22.png", "/featured/image-23.png"],
-      "description": "Sleek modern styling, offering the highest level of usability and vehicle integration. The Ascent is our feature-packed flagship canopy, offering the highest level of usability and vehicle integration in an ultra-premium design. With a raft of standard features including fully integrated central locking and push-button window switches, the Ascent is the solution for those who live an active lifestyle and want their vehicle to look just as good off-road as it does in the parking lot."   
-    },
-    {
-      "id": 12,
-      "title": "Rooftop Tents",
-      "excerpt": "Getting off the beaten track and visiting parts less travelled is a key attraction when 4WDing.",
-      "price": "48.56",
-      "discountPrice": "36.99",
-      "thumbnail": "/featured/image-19.png",
-      "images": ["/featured/image-19.png", "/featured/image-21.png", "/featured/image-22.png", "/featured/image-23.png"],
-      "description": "Getting off the beaten track and visiting parts less travelled is a key attraction when 4WDing. And while ‘roughing it’ certainly has some appeal, there are times when a little comfort can make all the difference. Whether you’re planning on getting lost for a couple of days, or heading into more remote regions of the country, you’ll need some warm and convenient shelter. ARB’s range of tents, swags and awnings has an array of options to suit every journey, and is complemented by a variety of optional accessories to make every camping adventure an enjoyable one."   
-    }
+  "customers": [
+      {"id": 1, "name": {"first": "Leroy", "last": "Walton"},"email":"leroy@gmail.com","phone":"111-222-1111"},
+      {"id": 2, "name": {"first": "Shane", "last": "Garrett"},"email":"shane@gmail.com","phone":"222-222-2222"},
+      {"id": 3, "name": {"first": "Sheryl", "last": "Robinson"},"email":"sheryl@gmail.com","phone":"333-222-3333"},
+      {"id": 4, "name": {"first": "Fred", "last": "Bush"},"email":"fred@gmail.com","phone":"444-222-4444"},
+      {"id": 5, "name": {"first": "Julie", "last": "Dawson"},"email":"julie@gmail.com","phone":"555-222-5555"},
+      {"id": 6, "name": {"first": "Ervin", "last": "Vega"},"email":"ervin@gmail.com","phone":"666-222-6666"},
+      {"id": 7, "name": {"first": "Emanuel", "last": "Watson"},"email":"emanuel@gmail.com","phone":"777-222-7777"},
+      {"id": 8, "name": {"first": "Fred", "last": "Sharp"},"email":"fred@gmail.com","phone":"888-222-8888"},
+      {"id": 9, "name": {"first": "Virginia", "last": "Hall"},"email":"virginia@gmail.com","phone":"999-222-9999"},
+      {"id": 10, "name": {"first": "Carrie", "last": "Sanchez"},"email":"carrie@gmail.com","phone":"101-222-0010"}
   ],
-    "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "addresses": [
+      { "id": 1, "address": "Belmont Avenue", "state": "KS" },
+      { "id": 2, "address": "10th Street", "state": "MO" },
+      { "id": 3, "address": "Route 100", "state": "IA" }, 
+      { "id": 4, "address": "Evergreen Lane", "state": "MN" },
+      { "id": 5, "address": "Main Street", "state": "WI" },
+      { "id": 6, "address": "Briarwood Drive", "state": "MN" },
+      { "id": 7, "address": "Linden Avenue", "state": "IA" },
+      { "id": 8, "address": "Eagle Road", "state": "MO" },
+      { "id": 9, "address": "Glenwood Avenue", "state": "KS" },
+      { "id": 10, "address": "Elm Street", "state": "WI" }
+  ]
+
 }
