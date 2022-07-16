@@ -12,13 +12,13 @@
     },
     {
       "id": 2,
-      "title": "Commercial Vehicle",
-      "excerpt": "Any type of motor vehicle used for transporting goods or paying passengers.",
+      "title": "UTE Lids & Tub",
+      "excerpt": "An alternative to a traditional canopy, whether it be for work play or anything in between.",
       "price": "48.56",
       "discountPrice": "36.99",
-      "thumbnail": "/featured/image-9.png",
-      "images": ["/featured/image-9.png", "/featured/image-21.png", "/featured/image-22.png", "/featured/image-23.png"],
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce finibus ultrices quam. Interdum et malesuada fames ac ante ipsum primis in faucibus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce finibus ultrices quam. Interdum et malesuada fames ac ante ipsum primis in faucibus."
+      "thumbnail": "/featured/image-17.png",
+      "images": ["/featured/image-17.png", "/featured/image-21.png", "/featured/image-22.png", "/featured/image-23.png"],
+      "description": "The passenger side damping strut helps to slowly lower the tailgate which, once opened, can be let go and continue to lower unassisted in a controlled manner. On the driver’s side of the tailgate, a gas-assisted traction strut helps to close the tailgate; making lifting easy and achievable with a simple one-handed motion. Each kit comes with vehicle-specific hardware including mounting brackets and replacement tailgate cables and guide brackets where required."   
     },
     {
       "id": 3,
@@ -72,23 +72,23 @@
     },
     {
       "id": 8,
-      "title": "Interior Protection",
-      "excerpt": "No more digging your bare arms, elbows deep, in ice while scavenging around for a can at the bottom of the cooler.",
+      "title": "Canopies",
+      "excerpt": "From the tried and tested Classic canopy offering simple yet secure storage space.",
       "price": "48.56",
       "discountPrice": "36.99",
-      "thumbnail": "/featured/image-15.png",
-      "images": ["/featured/image-15.png", "/featured/image-21.png", "/featured/image-22.png", "/featured/image-23.png"],
-      "description": "Whether it be holding the lid with one hand, jamming it against the headliner or resting it against your head, we’ve become accustomed to compromise when attempting to hold the lid of our 4WD fridges open. We solved it before with our removable lid, but the new weatherproof fridge takes things a step further, with the introduction of our innovative new strut that holds the lid open in any position (from closed to upright), making it easier to grab the drinks on your next shout. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce finibus ultrices quam. Interdum et malesuada fames ac ante ipsum primis in faucibus."   
+      "thumbnail": "/featured/image-18.png",
+      "images": ["/featured/image-18.png", "/featured/image-21.png", "/featured/image-22.png", "/featured/image-23.png"],
+      "description": "Sleek modern styling, offering the highest level of usability and vehicle integration. The Ascent is our feature-packed flagship canopy, offering the highest level of usability and vehicle integration in an ultra-premium design. With a raft of standard features including fully integrated central locking and push-button window switches, the Ascent is the solution for those who live an active lifestyle and want their vehicle to look just as good off-road as it does in the parking lot."   
     },
     {
       "id": 9,
-      "title": "Product Title",
-      "excerpt": "Space for a small product description.",
+      "title": "Rooftop Tents",
+      "excerpt": "Getting off the beaten track and visiting parts less travelled is a key attraction when 4WDing.",
       "price": "48.56",
       "discountPrice": "36.99",
-      "thumbnail": "/featured/image-16.png",
-      "images": ["/featured/image-16.png", "/featured/image-21.png", "/featured/image-22.png", "/featured/image-23.png"],
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce finibus ultrices quam. Interdum et malesuada fames ac ante ipsum primis in faucibus."   
+      "thumbnail": "/featured/image-19.png",
+      "images": ["/featured/image-19.png", "/featured/image-21.png", "/featured/image-22.png", "/featured/image-23.png"],
+      "description": "Getting off the beaten track and visiting parts less travelled is a key attraction when 4WDing. And while ‘roughing it’ certainly has some appeal, there are times when a little comfort can make all the difference. Whether you’re planning on getting lost for a couple of days, or heading into more remote regions of the country, you’ll need some warm and convenient shelter. ARB’s range of tents, swags and awnings has an array of options to suit every journey, and is complemented by a variety of optional accessories to make every camping adventure an enjoyable one."   
     }
   ]
 }
