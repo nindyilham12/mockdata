@@ -59,6 +59,36 @@
       "thumbnail": "/featured/image-13.png",
       "images": ["/featured/image-13.png", "/featured/image-21.png", "/featured/image-22.png", "/featured/image-23.png"],
       "description": "Ultra sleek, boasting a super low mounting profile and lightweight design, the BASE Rack provides unmatched simplicity, flexibility and personalisation in your roof rack set-up. Manufactured and designed to withstand the most demanding of conditions, Deluxe racks come in a range of sizes for vehicles with or without gutters and are supplied with stainless steel mounting hardware and variable height fitting kits to enable multi-vehicle fitment. The Deluxe roof rack is available as a cab rack for dual cab applications."   
+    },
+    {
+      "id": 7,
+      "title": "Portable Fridge Freezers",
+      "excerpt": "No more digging your bare arms, elbows deep, in ice while scavenging around for a can at the bottom of the cooler.",
+      "price": "48.56",
+      "discountPrice": "36.99",
+      "thumbnail": "/featured/image-14.png",
+      "images": ["/featured/image-14.png", "/featured/image-21.png", "/featured/image-22.png", "/featured/image-23.png"],
+      "description": "Whether it be holding the lid with one hand, jamming it against the headliner or resting it against your head, we’ve become accustomed to compromise when attempting to hold the lid of our 4WD fridges open. We solved it before with our removable lid, but the new weatherproof fridge takes things a step further, with the introduction of our innovative new strut that holds the lid open in any position (from closed to upright), making it easier to grab the drinks on your next shout."   
+    },
+    {
+      "id": 8,
+      "title": "Interior Protection",
+      "excerpt": "No more digging your bare arms, elbows deep, in ice while scavenging around for a can at the bottom of the cooler.",
+      "price": "48.56",
+      "discountPrice": "36.99",
+      "thumbnail": "/featured/image-15.png",
+      "images": ["/featured/image-15.png", "/featured/image-21.png", "/featured/image-22.png", "/featured/image-23.png"],
+      "description": "Whether it be holding the lid with one hand, jamming it against the headliner or resting it against your head, we’ve become accustomed to compromise when attempting to hold the lid of our 4WD fridges open. We solved it before with our removable lid, but the new weatherproof fridge takes things a step further, with the introduction of our innovative new strut that holds the lid open in any position (from closed to upright), making it easier to grab the drinks on your next shout. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce finibus ultrices quam. Interdum et malesuada fames ac ante ipsum primis in faucibus."   
+    },
+    {
+      "id": 9,
+      "title": "Product Title",
+      "excerpt": "Space for a small product description.",
+      "price": "48.56",
+      "discountPrice": "36.99",
+      "thumbnail": "/featured/image-16.png",
+      "images": ["/featured/image-16.png", "/featured/image-21.png", "/featured/image-22.png", "/featured/image-23.png"],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce finibus ultrices quam. Interdum et malesuada fames ac ante ipsum primis in faucibus."   
     }
   ]
 }
